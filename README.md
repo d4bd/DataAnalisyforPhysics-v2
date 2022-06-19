@@ -1,5 +1,5 @@
 # DataAnalisyforPhysics-v2
-The aim of this project was to create a meta-language to automate data analisys in the laboratories of a bachelor degree in physics. The idea was to reach the same complexity of the workflow in a spreadsheets.
+Aim of this project was to create a meta-language to automate data analisys in the laboratories of a bachelor degree in physics. The idea was to reach the same complexity of the workflow in a spreadsheets.
 
 Precisely the idea was to create a python program that would act as an interpreter for the new language. The set of instructions would have been limited, substantially we would have liked to support the possibility to add data and generate from specific functions, make calculations of arbitrary frunctions from that data, plot it and eventually make best-fits.
 
